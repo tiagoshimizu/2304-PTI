@@ -157,8 +157,6 @@ A equipe desenvolveu um sistema contemplando os seguintes casos de uso, cada um 
 
 ![UML Diagram](./Documentação/diagramaUML.jpeg "UML Diagram")
 
-(Incluir imagens dos diagramas UML aqui)
-
 ## Telas
 Representação das interfaces de usuário conforme os casos de uso.
 
