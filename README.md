@@ -174,7 +174,7 @@ Representação das interfaces de usuário conforme os casos de uso.
 
 - Cadastro de Fornecedores
 
-![UML Diagram](./path/to/diagram.png "UML Diagram Title")
+![UML Diagram](./Documentação/telas/fornecedores.jpeg "Fornecedores")
 
 - Cadastro de Alunos
 
