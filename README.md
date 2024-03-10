@@ -154,7 +154,8 @@ A equipe desenvolveu um sistema contemplando os seguintes casos de uso, cada um 
   - **Pós-condição Alternativa**: O pedido é aprovado com modificações.
 
 ## Diagramas UML
-Aqui serão apresentados os diagramas UML que fundamentam os casos de uso descritos.
+
+![UML Diagram](./Documentação/diagramaUML.jpeg "UML Diagram")
 
 (Incluir imagens dos diagramas UML aqui)
 
