@@ -178,4 +178,5 @@ Representação das interfaces de usuário conforme os casos de uso.
 
 - Cadastro de Alunos
 
-![UML Diagram](./path/to/diagram.png "UML Diagram Title")
+![UML Diagram](./Documentação/telas/alunos.jpg "Alunos")
+
