@@ -160,4 +160,22 @@ A equipe desenvolveu um sistema contemplando os seguintes casos de uso, cada um 
 ## Telas
 Representação das interfaces de usuário conforme os casos de uso.
 
-(Incluir protótipos das telas aqui)
+- Cadastro de Pessoa Física
+
+![UML Diagram](./Documentação/telas/pessoaFisica.jpeg "Pessoa Física")
+
+- Cadastro de Pessoa Jurídica
+
+![UML Diagram](./Documentação/telas/pessoaJuridica.jpeg "Pessoa Jurídica")
+
+- Cadastro de Professores
+
+![UML Diagram](./path/to/diagram.png "UML Diagram Title")
+
+- Cadastro de Fornecedores
+
+![UML Diagram](./path/to/diagram.png "UML Diagram Title")
+
+- Cadastro de Alunos
+
+![UML Diagram](./path/to/diagram.png "UML Diagram Title")
