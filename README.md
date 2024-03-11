@@ -170,7 +170,7 @@ Representação das interfaces de usuário conforme os casos de uso.
 
 - Cadastro de Professores
 
-![UML Diagram](./Documentação/telas/professores.jpeg "Professores")
+![UML Diagram](./Documentação/telas/professores.jpg "Professores")
 
 - Cadastro de Fornecedores
 
